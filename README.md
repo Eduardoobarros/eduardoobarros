@@ -27,3 +27,9 @@ Currently deepening my skills in **Python** and **Java**, while actively buildin
 ---
 
 📫 [LinkedIn](https://www.linkedin.com/in/eduardo-barros-732683197/) · Based in Imperatriz, Brazil
+
+---
+
+### 🛠️ Languages & Tools
+
+![My Skills](https://skillicons.dev/icons?i=py,js,java,nodejs,postgres,docker,git,github,figma,react)
