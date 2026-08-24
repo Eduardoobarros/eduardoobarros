@@ -11,10 +11,16 @@ Currently deepening my skills in **Python** and **Java**, while actively buildin
 ### 🔧 What I work with
 
 - **Automation:** n8n (webhooks, integrations, workflow orchestration), Make/Zapier
-- **Languages:** JavaScript, Python (in progress), Java (in progress)
+- **Languages:** Python (in progress), Java (in progress), solid programming logic; JavaScript basics
 - **AI:** LLM API integration (Google Gemini, OpenAI), prompting, AI agents for customer interaction
 - **Data & Backend:** PostgreSQL, Supabase, REST APIs, Docker
-- **Tools:** Git/GitHub, Figma, Vite/React
+- **Tools:** Git/GitHub, Figma
+
+### 🛠️ Languages & Tools
+
+![My Skills](https://skillicons.dev/icons?i=py,java,postgres,docker,git,github,figma)
+
+*Also using JavaScript basics for automation scripting (n8n code nodes)*
 
 ---
 
@@ -27,9 +33,3 @@ Currently deepening my skills in **Python** and **Java**, while actively buildin
 ---
 
 📫 [LinkedIn](https://www.linkedin.com/in/eduardo-barros-732683197/) · Based in Imperatriz, Brazil
-
----
-
-### 🛠️ Languages & Tools
-
-![My Skills](https://skillicons.dev/icons?i=py,js,java,nodejs,postgres,docker,git,github,figma,react)
